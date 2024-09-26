@@ -8,4 +8,3 @@
 ## Stats that I like to show but is it matter?👋
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dopealicious&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="dopealicious" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dopealicious&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="dopealicious" /></p>
